@@ -1,5 +1,5 @@
 Language Model Training and Usage Project:
-Hello Doctor,
+Hello,
 This file explains in detail how to run all the files in the project step by step (they have all
 been tested on Google Colab with GPU).
 Basic Requirements (one time only)
